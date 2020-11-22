@@ -1,0 +1,38 @@
+* {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.introduction {
+    background-image: url(https://simonscellworks.files.wordpress.com/2019/01/cropped-iphone-background.jpg);
+    width: auto;
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+    color: white;
+
+
+}
+
+.intro-text {
+    text-align: center;
+    padding-top: 40vh;
+}
+
+.intro-text p{
+    font-size: 130%;
+}
+
+
+.btn {
+    padding: 30px 60px;
+    font-size: 120%;
+    color: white;
+    background-color: coral;
+    border-radius: 100px;
+}
+
+.btn:hover {
+    background-color: #ea9576;
+}
